@@ -1,1 +1,5 @@
-# ExamenP1
+#  CONTROL DE LA VERSIÓN
+* Datos personales
+* Características del computador
+* Programas utilizados
+* Explicación de la data utilizada
