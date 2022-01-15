@@ -12,7 +12,6 @@
   - Id. del producto: 
   - 00331-10000-00001-AA630 
   - Tipo de sistema: Sistema operativo de 64 bits, procesador x64
-  - Lápiz de sistema:La entrada táctil o manuscrita no está disponible para esta pantalla
 * Programas utilizados
   - Paython
   - Git hub
